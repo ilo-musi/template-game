@@ -1,0 +1,4 @@
+assets/*.img
+bin/
+output.map
+private/

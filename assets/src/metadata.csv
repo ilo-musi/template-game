@@ -1,0 +1,7 @@
+NAME,Template Game
+AUTHOR,Sadale
+DESCRIPTION,This is a template game for getting started on making games for Ilo Musi
+0,bin/Template.bin
+1,assets/coin0.img,assets/coin1.img,assets/coin2.img,assets/coin3.img,assets/coin4.img,assets/coin5.img,assets/coin6.img,assets/coin7.img
+2,assets/coin0.img
+255,[512]

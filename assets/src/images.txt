@@ -1,0 +1,104 @@
+>./assets/coin0.img
+..........
+.  XXXX  .
+. X    X .
+.X  XX  X.
+.X X  X X.
+.X X  X X.
+.X  XX  X.
+. X    X .
+.  XXXX  .
+..........
+END
+
+>./assets/coin1.img
+..........
+.  XXXX  .
+. X    X .
+. X XX X .
+. X XX X .
+. X XX X .
+. X XX X .
+. X    X .
+.  XXXX  .
+..........
+END
+
+>./assets/coin2.img
+..........
+.   XX   .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.   XX   .
+..........
+END
+
+>./assets/coin3.img
+..........
+.   XX   .
+.   XX   .
+.   XX   .
+.   XX   .
+.   XX   .
+.   XX   .
+.   XX   .
+.   XX   .
+..........
+END
+
+>./assets/coin4.img
+..........
+.   XX   .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.  X  X  .
+.   XX   .
+..........
+END
+
+>./assets/coin5.img
+..........
+.  XXXX  .
+. X    X .
+. X XX X .
+. X XX X .
+. X XX X .
+. X XX X .
+. X    X .
+.  XXXX  .
+..........
+END
+
+>./assets/coin6.img
+..........
+.  XXXX  .
+. X    X .
+.X  XX  X.
+.X X  X X.
+.X X  X X.
+.X  XX  X.
+. X    X .
+.  XXXX  .
+..........
+END
+
+>./assets/coin7.img
+..........
+.  XXXX  .
+. X    X .
+.X  XX  X.
+.X X  X X.
+.X X  X X.
+.X  XX  X.
+. X    X .
+.  XXXX  .
+..........
+END
+
